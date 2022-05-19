@@ -51,6 +51,7 @@ public class TokenProvider implements InitializingBean {
 
     /**
      * createToken() : Authentication 객체의 권한정보를 이용해 토큰을 생성
+     * revert 테스트
      * @param authentication
      * @return
      */
